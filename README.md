@@ -169,7 +169,10 @@ Repository:
 ## LinkedIn
 🔗 https://www.linkedin.com/in/sujith-k-s-65b524186
 
-## Email
+## Professional Email
+📧 sujithkarthick11@gmail.com
+
+## Email (for freelancing service)
 📧 sujith.digitalservices@gmail.com
 
 ---
