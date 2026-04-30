@@ -169,8 +169,6 @@ Repository:
 
 ## LinkedIn
 🔗 https://www.linkedin.com/in/sujith-k-s-65b524186
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="sujith-k-s-65b524186" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/sujith-k-s-65b524186?trk=profile-badge">Sujith K S</a></div>
               
 
 ## Professional Email
