@@ -132,7 +132,7 @@ I have worked with logistics AI systems, retail shelf analytics, healthcare imag
 
 # Portfolio Projects
 
-## AI Annotation Portfolio
+## AI Annotation & ML Evaluation Portfolio
 Repository:
 🔗 https://github.com/sujith96-dta/ai-annotation-projects
 🔗 https://github.com/sujith96-dta/ml-evaluation-workflows
